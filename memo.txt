@@ -1,0 +1,22 @@
+1) frontend
+    1. navbar 
+        - edit :)
+        - share :)
+        - search :)
+        - delete :)
+
+    2. welcome header :)
+    3. note header :)
+    4. note body :)
+    5. register button :) 
+    6. email input :)
+    7. password input :)
+    8. Login button :)
+
+2) backend
+    1. database 
+        - todos 
+            -> Header
+            -> Body  
+        - users
+
